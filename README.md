@@ -641,7 +641,7 @@ Install Groovy:
 
 #### Windows:
 
--   Visit the official Python website's download page.
+-   Visit the official Python website's [download page](https://www.python.org/downloads/).
 -   Click on the latest Python release.
 -   Scroll down to the Files section and download the Windows x86-64 executable installer for 64-bit version of Windows.
 -   Run the installer file and follow the instructions, making sure to tick the box that says "Add Python to PATH" before clicking Install Now.
@@ -650,7 +650,7 @@ Install Groovy:
 
 Mac OS X should come pre-installed with Python, but in case it's not installed, here's how to install it:
 
--   Visit the official Python website's download page.
+-   Visit the official Python website's [download page](https://www.python.org/downloads/).
 -   Click on the latest Python release.
 -   Download the macOS 64-bit installer.
 -   Open the downloaded .pkg file and follow the instructions to install Python.
@@ -1581,9 +1581,9 @@ _Note: We recommend to always create new branch with each Issue you solve! Other
 
 ## Tasks
 
-*Note: These tasks will not count towards Hacktoberfest, since this repository is an educational repository, hence against the hacktoberfest guidelines.*
+*Note: These tasks will not count towards Hacktoberfest or any other similar "coding competitions", since this repository is an educational repository, hence against the Hacktoberfest guidelines.*
 
-We present over 110 several tasks for different languages, libraries and frameworks with varying difficulty. You can choose which task you want to work with and which difficulty you want to solve. You can also choose to solve multiple tasks if you want to. Just remember to create a new branch for each task you solve.
+We present over 130 several tasks for different languages, libraries and frameworks with varying difficulty. You can choose which task you want to work with and which difficulty you want to solve. You can also choose to solve multiple tasks if you want to. Just remember to create a new branch for each task you solve.
 
 Firstly, open the `tasks` directory and select which language you want to work with by opening one of the following directories:
 
@@ -1991,6 +1991,7 @@ Sit back and wait for a response and feedback of the pull request. If everything
 
 Remember to wait for us to review your pull request, do not close it yourself.
 If you are asked to make changes, you can do so by committing them to the same branch, there is no need to close the current Pull Request and open a new one.
+If you don't respond to the review and make the necessary changes within 4 days, the Pull Request will be closed automatically.
 
 After the merge, actions-user bot will reset the files for the next contributor.
 
@@ -2678,3 +2679,153 @@ Massive thanks to all of the these fine individuals who contributed to this proj
 <a href="https://github.com/OliverChen12"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92090510?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
 <a href="https://github.com/jsjtsty"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/19505462?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
 <a href="https://github.com/qq905575048"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/26545215?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MounikaVemparala"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/73685601?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/LRKROSHAN"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/82709418?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AdityaT-19"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/121053747?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ARPIT2128"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93235104?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/22tushar"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/86909566?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/abelrula"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/149838087?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Amank04"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/122851034?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/harishankarr7"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/31157448?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Skandesh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/42321593?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ruchikamuddinagiri"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52284361?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Rupa-Rd"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/102663541?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/cclypeatus"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106562793?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Pavs1605"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/18229871?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Deepkha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/96628370?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ruhifarhath"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/112181464?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/nithamitabh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/96220322?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/lchauha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/126190602?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/tash04"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119289726?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ritiksharma04"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57989820?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Yatharth31"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/118633431?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/utkarsh-1602"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79980596?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/manikanta799"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/56464362?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Manideep-Maddileti"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/107171168?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/kedarshenoy"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75718122?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SadanandMiskin"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119523972?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Riyazul555"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/121575277?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Leonich77"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/32384695?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Karan1806"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/132808219?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Siddharth1605"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/110531782?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SutanjoyPal"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/119684386?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/dilpreetsinghaulakh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/77715510?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Vru007"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/140682509?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Vince-arch"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62562210?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Avadhut20"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/111897568?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/DaveSimoes"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/109705197?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SlayerInferno"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103516759?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/LandaRashmi"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/129966632?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/abcd-aakarsh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133818110?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/roberanegussie"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/47657043?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/misbah-anwar"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/127953074?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/musddikkazi00"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/102345766?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Aryan863"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/99032856?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Ananyamishra08"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/98649189?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/izumigoto"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123097688?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mohitmahur"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/125114161?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/anirbang324"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60977714?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Darshanroy"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/141019519?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/nitinya9av"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/58939117?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mannas006"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/51678885?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Grs257"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/116698450?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Karthik110505"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/140957865?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/trish404"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/144921673?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/samudraneel05"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/98489891?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/himanshu-garg-ds"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/153814179?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AKrishnaKundan"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93312488?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/muhamadjawad"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/50518179?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AyushSenDazzler"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/85610426?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ritikraj210"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90103921?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/jiteshpahwa04"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70029924?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/christiano-developer"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/88627133?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/joshuasoftdev"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123251561?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/kishlay42"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113373620?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mroberts0884"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/64812700?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Vipin-V"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/52450894?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/saquib000"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103306537?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Mortenlost"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/73838897?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SumitDwivedi24X"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/68289271?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Amunoz-1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128929439?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ameya-6964"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/104457295?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Diald"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/114723756?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Eaglesight02"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/108081278?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ATerskin"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/34988508?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/B-Anand18"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81760438?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/echelonnought"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/50064240?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/anandromy"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/156048389?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/rupali199999"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/86226634?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HarshadaGirase"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128895955?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/aatmaj28"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/71608530?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/rajanarahul93"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123227543?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/azharKhalid"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/40333032?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Madhusri02"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/123156637?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/unnat1654"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/125393204?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SidmoGoesBrrr"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60550481?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Dhruv-Kapri"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103319551?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Tharanishwaran"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133676934?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mirajshaikh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60136156?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/aniimessh"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/97246133?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AndresPaulino"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/93609044?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/lqtrung-95"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/44612846?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/dikshabroota"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61889945?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sujanMidatani7"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/105052933?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/DEVANSHUKEJRIWAL"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92500223?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/RealRajnish"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61611447?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/NikolaM4"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128964319?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/tanisha-7001"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/127115018?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Amitesh007z"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/145351157?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/andref12"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/67108020?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/YTheLynch"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/69767140?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/JASIM0021"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/94641150?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/DongJu-Na"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/79893048?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/ritatanght"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/111014078?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sinha-sanchay"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/140732561?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/abhishekHegde2000"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/88794340?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Programmer-Dost"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/86385683?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/zacharytennyuk"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/132629419?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/mahesh024M"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/82373883?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/rejzoo"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/117440456?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/raghits"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1162453?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/w-augustin"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92005127?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AnkitAnandMastery"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/104755287?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/iddrisumohamme1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/126844637?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/AmboThom"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41874659?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sriram1909"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91781724?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sameer2799"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/90849260?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/swaroop489"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/141803751?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gurjeetsinghvirdee"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/73753957?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/carodelafuente"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/25378135?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/jaymeklein"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/18254213?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HighEffortMeme"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/161233536?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/RithikaReddyK"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/158116898?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Dovineowuor"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70941806?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/uHan2"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8328839?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/sathwika-adimulam"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/125170092?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/k-komati"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/125170456?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/psrikha"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/116040520?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Onolax"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/102753837?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/dduirs"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61534026?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/SourabhRajput123"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/146932359?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/readj4vvat"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/69030814?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Batchen3"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89651748?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/heidi37"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/28228859?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/RajeevRanjan5642"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/95275538?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Rakshit788"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/137830213?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/namahu"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/6575515?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/varshalohakre"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/166982714?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Programmer80101"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/98077905?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/hubtanaka"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/177859314?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/daisuke8000"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/55035595?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/Piyush3199"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/67213994?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/FedericoGoffi"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/130991717?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/MBHunter88"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/130544940?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/WilliamDavidson-02"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/114066917?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/hugosandsjo"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/142966167?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/JoarHansson"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/124060119?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/HannesAlexandersson"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/135141396?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/vomitorius"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/6480839?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/gparsons"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7734533?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/kmoy1"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/54646969?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/JSamuelAP"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/67252845?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
+<a href="https://github.com/personal-trainer-github"><img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/118694665?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="80px"/></a>
